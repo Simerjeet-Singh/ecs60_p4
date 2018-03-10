@@ -1,0 +1,17 @@
+Makefile optimization check: 
+OK
+Testing  cpu-4000000-6.dat: 
+CPU time: 0.257041 Count: 3639680 Compulsory: 588154 RAM: 63992
+ 
+Testing  cpu-4000000-7.dat: 
+CPU time: 0.254 Count: 3789450 Compulsory: 589517 RAM: 63992
+ 
+Testing  cpu-4000000-8.dat: 
+CPU time: 0.25887 Count: 3493559 Compulsory: 653483 RAM: 63992
+ 
+No memory problems.
+
+Total CPU Time: Yours 0.769911  Sean's: 2.67 so your score is 17
+
+Total Transfer: Yours 9091535  Sean's: 9255687 so your score is 16
+Total score: 17 + 16 + 20 + 0 + 0 = 53
